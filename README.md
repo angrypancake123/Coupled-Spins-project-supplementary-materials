@@ -2,16 +2,17 @@
 
 Contents:
 
-Python code regarding nmr hamiltonians of coupled spins:-
-  1. General eigenvalue solution from a matrix.
-  2. Producing figures for eigenvalues against a varying coupling constant.
+Python code regarding nmr hamiltonians of coupled spins used to produce figures for eigenvalues against a varying coupling constant.
 
 Figures produced for a varying coupling constant:-
-  1. All energys detailed.
-  2. Mixed state energys detailed.
+  1. Mixed state energys detailed.
+  2. All energys detailed.
 
-Matlab  code for producing nmr simulation
+The derivation of the Hamiltonian matrix using the kronecker product solution.
 
-Derivations
+Figure of an nmr spectrum.
+
+Matlab  code for producing nmr spectrum.
+
 
   
